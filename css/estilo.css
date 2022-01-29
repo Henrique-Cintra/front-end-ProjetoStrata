@@ -340,4 +340,20 @@ textarea{
     margin-left: 2%;
 }
 
+.img-left{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    border-radius: 50%;
+}
+.img-right{
+    float: right;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    border-radius: 50%;
+  }
 
